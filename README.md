@@ -44,3 +44,4 @@ If you're still getting a similar error, execute the instruction again, in your 
 
 * find a way to avoid problems with meanjs and mean.io installers (mainly, the tar tar.unpack untar issue);
 * add a YAML configuration file (because lazy is better);
+* solve the issue with "export NODE_PATH..." instruction. Find a way to fix it;
